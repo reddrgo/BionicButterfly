@@ -1,7 +1,13 @@
 # CAD Files
 
-This folder contains all CAD models for the Bionic Butterfly.
+The Bionic Butterfly is designed in Onshape.
 
-- Onshape Link
-- STEP files
-- STL files
+## Current Models
+
+- Butterfly master sketch
+- Thorax (coming soon)
+- Wing frame (coming soon)
+
+## Onshape
+
+Link coming soon.
