@@ -1,7 +1,7 @@
-Item,Component,Quantity,Package Contents,Unit/Package Price,Purpose,Status
-1,LUIRSAY Nano V3.0 ATmega328P/CH340G,1,2 Arduino Nano compatible boards,$11.99,Main microcontroller,Planned
-2,EDGELEC 5mm RGB Tri-Color LEDs,1,100 RGB LEDs + 300 resistors,$8.99,Wing lighting,Planned
-3,SZLIZHUO 20 AWG Copper Wire,1,75 ft,$9.99,Wing structure and electrical connections,Planned
-4,Beffkkip SG90 9g Micro Servos,1,4 SG90 servos,$7.98,Flapping wing mechanism,Planned
+Item,Component,Quantity,Package Contents,Unit/Package Price,Purpose
+1,LUIRSAY Nano V3.0 ATmega328P/CH340G,1,2 Arduino Nano compatible boards,$11.99,Main microcontroller
+2,EDGELEC 5mm RGB Tri-Color LEDs,1,100 RGB LEDs + 300 resistors,$8.99,Wing lighting
+3,SZLIZHUO 20 AWG Copper Wire,1,75 ft,$9.99,Wing structure and electrical connections
+4,Beffkkip SG90 9g Micro Servos,1,4 SG90 servos,$7.98,Flapping wing mechanism
 ,TOTAL,,,,38.95,Current estimated hardware cost,
 
