@@ -37,3 +37,15 @@ Images are located in '/images'
 ## Goals
 
 Create a realistic butterfly that can move its wings smoothly with a good design and color from the LEDs.
+
+## Bill of Materials
+
+| Component | Quantity | Package | Price | Purpose |
+|---|---:|---|---:|---|
+| LUIRSAY Nano V3.0 | 1 | 2-pack | $11.99 | Main controller |
+| EDGELEC 5mm RGB LEDs | 1 | 100 LEDs + resistors | $8.99 | Wing lighting |
+| SZLIZHUO 20 AWG Copper Wire | 1 | 75 ft | $9.99 | Wing structure/wiring |
+| Beffkkip SG90 Servos | 1 | 4-pack | $7.98 | Wing movement |
+| **Total** | | | **$38.95** | |
+
+See the complete [BOM](Electronics/BOM.csv) for component details.
