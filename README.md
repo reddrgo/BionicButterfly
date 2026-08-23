@@ -38,6 +38,10 @@ Images are located in '/images'
 
 Create a realistic butterfly that can move its wings smoothly with a good design and color from the LEDs.
 
+## Development Time
+
+Dev time tracked using Wakatime on onshape.
+
 ## Bill of Materials
 
 | Component | Quantity | Package | Price | Purpose |
