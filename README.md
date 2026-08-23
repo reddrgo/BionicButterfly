@@ -44,7 +44,7 @@ Dev time tracked using Wakatime on onshape.
 
 ## Bill of Materials
 
-| Component | Quantity | Package | Price | Purpose |
+| Component | Quantity | Package | Price (USD)| Purpose |
 |---|---:|---|---:|---|
 | LUIRSAY Nano V3.0 | 1 | 2-pack | $11.99 | Main controller |
 | EDGELEC 5mm RGB LEDs | 1 | 100 LEDs + resistors | $8.99 | Wing lighting |
