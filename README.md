@@ -9,7 +9,7 @@ Mechanical robotic like butterfly that moves its wings which is made of copper s
 - Arduino Nano control
 - Custom CAD designed in Onshape
 
-
+![Front Butterfly](image_2026-09-12_134330964.png)
 ## Current Progress
 
 - [x] Project planning
