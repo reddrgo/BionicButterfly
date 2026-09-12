@@ -28,6 +28,8 @@ Will be adding Pictures in the future
 
 CAD files are located in '/CAD'
 
+![CAD Design](Images/butterfly-sketch.png.png)
+
 Electronics are located in '/Firmware'
 
 Documentation is located in '/Docs'
