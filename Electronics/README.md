@@ -1,3 +1,3 @@
 # Electronics
 
-Schematics, wiring diagrams, and bill of materials.
+Schematics and bill of materials.
